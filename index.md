@@ -15,7 +15,7 @@ Zachary N. Mead</span>
 </div>
 <div class="pos" id="_153:117" style="top:117;left:153">
 <span id="_11.1" style=" font-family:Times New Roman; font-size:11.1px; color:#000000">
-831-236-6136     <U>z</U><U>a</U><U>c</U><U>h</U><U>a</U><U>r</U><U>y</U><U>.</U><U>n</U><U>.</U><U>m</U><U>e</U><U>a</U><U>d</U><U>@</U><U>g</U><U>m</U><U>a</U><U>i</U><U>l</U><U>.</U><U>c</U><U>o</U><U>m</U>      Fargo, ND     www.linkedin.com/in/znmead</span>
+831-236-6136     <U>z</U><U>a</U><U>c</U><U>h</U><U>a</U><U>r</U><U>y</U><U>.</U><U>n</U><U>.</U><U>m</U><U>e</U><U>a</U><U>d</U><U>@</U><U>g</U><U>m</U><U>a</U><U>i</U><U>l</U><U>.</U><U>c</U><U>o</U><U>m</U>      Fargo, ND     <a href="url">www.linkedin.com/in/znmead </a></span>
 </div>
 <div class="pos" id="_152:152" style="top:152;left:152">
 <span id="_19.5" style="font-weight:bold; font-family:Times New Roman; font-size:19.5px; color:#5f5f5f">
