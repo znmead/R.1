@@ -19,7 +19,7 @@ Zachary N. Mead</span>
 </div>
 <div class="pos" id="_152:152" style="top:152;left:152">
 <span id="_19.5" style="font-weight:bold; font-family:Times New Roman; font-size:19.5px; color:#5f5f5f">
-Profile</span>
+<p>Profile</span>
 </div>
 <div class="pos" id="_152:178" style="top:178;left:152">
 <span id="_13.9" style=" font-family:Times New Roman; font-size:13.9px; color:#000000">
@@ -54,8 +54,8 @@ and creating a positive and inviting culture based on integrity, service, and ob
 detail.</span>
 </div>
 <div class="pos" id="_152:321" style="top:321;left:152">
-<span id="_18.8" style="font-weight:bold; font-family:Times New Roman; font-size:18.8px; color:#5f5f5f">
-Experience</span>
+<span id="_18.8" style="font-weight:bold; font-family:Times New Roman; font-size:18.8px; color:#5f5f5f"><p>
+<p>Experience</span>
 </div>
 <div class="pos" id="_152:346" style="top:346;left:152">
 <span id="_10.8" style="font-weight:bold;font-style:italic; font-family:Times New Roman; font-size:10.8px; color:#7a7a7a">
@@ -118,8 +118,8 @@ world-wide distributed mission sites, agencies, organizations, and aircrews.  </
 rated operator on target language operations working ISR missions via DCGS.  </span>
 </div>
 <div class="pos" id="_152:654" style="top:654;left:152">
-<span id="_18.8" style="font-weight:bold; font-family:Times New Roman; font-size:18.8px; color:#5f5f5f">
-Education</span>
+<span id="_18.8" style="font-weight:bold; font-family:Times New Roman; font-size:18.8px; color:#5f5f5f"><p>
+<p>Education</span>
 </div>
 <div class="pos" id="_152:679" style="top:679;left:152">
 <span id="_13.4" style=" font-family:Times New Roman; font-size:13.4px; color:#000000">
@@ -142,8 +142,8 @@ Defense Language Institute Foreign Language Center &#151; AA - Hebrew - 2004</sp
 Enlisted Aircrew Undergraduate Course &#151; Certificate - 2003</span>
 </div>
 <div class="pos" id="_152:830" style="top:830;left:152">
-<span id="_18.8" style="font-weight:bold; font-family:Times New Roman; font-size:18.8px; color:#5f5f5f">
-Skills and Interests</span>
+<span id="_18.8" style="font-weight:bold; font-family:Times New Roman; font-size:18.8px; color:#5f5f5f"><p>
+<p>Skills and Interests</span>
 </div>
 <div class="pos" id="_152:855" style="top:855;left:152">
 <span id="_13.4" style=" font-family:Times New Roman; font-size:13.4px; color:#000000">
@@ -152,4 +152,4 @@ Adaptability, AI, Biotech, Blockchain, Critical Analysis, Customer Service, EQ, 
 <div class="pos" id="_152:871" style="top:871;left:152">
 <span id="_13.4" style=" font-family:Times New Roman; font-size:13.4px; color:#000000">
 Others, <span style="font-style:italic"> Je ne sais quoi</span> , Scalability, Servant Leadership, Strategic Planning</span>
-</div>
+</div><p>
