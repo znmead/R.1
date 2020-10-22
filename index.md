@@ -5,7 +5,6 @@
 body { font-family: Arial; font-size: 18.4px }
 .pos { position: absolute; z-index: 0; left: 0px; top: 0px }
 -->
-</style>
 </head>
 <body>
 <nobr><nowrap>
@@ -154,6 +153,3 @@ Adaptability, AI, Biotech, Blockchain, Critical Analysis, Customer Service, EQ, 
 <span id="_13.4" style=" font-family:Times New Roman; font-size:13.4px; color:#000000">
 Others, <span style="font-style:italic"> Je ne sais quoi</span> , Scalability, Servant Leadership, Strategic Planning</span>
 </div>
-</nowrap></nobr>
-</body>
-</html>
