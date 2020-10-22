@@ -1,7 +1,7 @@
 <html>
 <head>
 <title>Zach's Resume</title>
-<style type="text/css">
+
 <!--
 body { font-family: Arial; font-size: 18.4px }
 .pos { position: absolute; z-index: 0; left: 0px; top: 0px }
