@@ -7,8 +7,7 @@ body { font-family: Arial; font-size: 18.4px }
 -->
 </head>
 <body>
-
-<img src=https://media-exp1.licdn.com/dms/image/C4E03AQEnOyL4v5L0wQ/profile-displayphoto-shrink_400_400/0?e=1608768000&v=beta&t=hmZL83FZsyopDzgDNSFK_eS5D5Nf2BdQBhT4hibx9mM>
+<img src="https://media-exp1.licdn.com/dms/image/C4E03AQEnOyL4v5L0wQ/profile-displayphoto-shrink_400_400/0?e=1608768000&amp;v=beta&amp;t=hmZL83FZsyopDzgDNSFK_eS5D5Nf2BdQBhT4hibx9mM" alt="Edit photo" id="ember10902" class="profile-photo-edit__preview ember-view" width="200" height="200">
 <nobr><nowrap>
 <div class="pos" id="_0:0" style="top:0">
 <div class="pos" id="_153:79" style="top:79;left:153">
