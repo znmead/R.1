@@ -1,7 +1,6 @@
 <html>
 <head>
 <title>Zach's Resume</title>
-
 <!--
 body { font-family: Arial; font-size: 18.4px }
 .pos { position: absolute; z-index: 0; left: 0px; top: 0px }
@@ -11,7 +10,6 @@ body { font-family: Arial; font-size: 18.4px }
 <body>
 <nobr><nowrap>
 <div class="pos" id="_0:0" style="top:0">
-<img name="_1100:850" src="page_001.jpg" height="1100" width="850" border="0" usemap="#Map"></div>
 <div class="pos" id="_153:79" style="top:79;left:153">
 <span id="_18.9" style="font-weight:bold; font-family:Times New Roman; font-size:18.9px; color:#5f5f5f">
 Zachary N. Mead</span>
